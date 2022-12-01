@@ -1,2 +1,2 @@
 # Advanced C++
-Advanced topic about C++ programming
+Advanced topics about C++ programming
